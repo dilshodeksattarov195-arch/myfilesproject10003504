@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdalidate",
+        "uuid": 2056848,
+        "checksum": "i2ac2h"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
